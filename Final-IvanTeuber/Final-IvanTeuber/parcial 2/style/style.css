@@ -1,0 +1,75 @@
+header{
+    color: black;
+}
+.img{
+	padding-top: 30px;
+    }
+    .color {
+        color: black;
+    }
+    
+  .navbar {
+        background-color: rgb(0, 0, 0);
+        box-shadow: 5px 5px 5px #DDDDDD;
+        font-size: 1em;
+    }
+    
+    .navbar a {
+        color: #F8F8F8;
+        text-align: center;
+        font-size: 1em;
+    }
+    
+    .navbar a:hover {
+        background-color: #424242;
+        color: black;
+    }
+    
+    .navbar a:active {
+        background-color: #424242;
+        color: black;
+    }
+    .sombra{
+        box-shadow: 7px 7px 3px 3px #a7a7a7;
+    }
+    .piso{
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+    body{
+        padding-top: 70px;
+    }
+
+
+    .portfolio-item {
+        margin-bottom: 30px;
+      }
+      
+      .pagination {
+        margin-bottom: 30px;
+      }
+      .titu {
+        background-color: #000000;
+        color: white;
+        text-align: center;
+        border-radius: 5px;
+        font-size: 2.5em;
+        box-shadow: 6px -3px 2px 1px #444444;
+    }
+.redes{
+    margin-top: 20px;
+    padding: 10px 10px;
+}
+.titu2{
+        display: inline-flex;
+        background-color: black;
+        color: white;
+        text-align: center;
+        border-radius: 5px;
+        padding: 10px 25px;
+        box-shadow:  5px 5px 2px 2px #444444;
+        font-size: 2em;
+
+}
+
+
